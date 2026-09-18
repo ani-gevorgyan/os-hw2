@@ -1,0 +1,3 @@
+This is the main function.
+This line has no matching word.
+The main task is searching a file.
